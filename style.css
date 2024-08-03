@@ -1,0 +1,37 @@
+body{
+  font-family: "roboto";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+  font-weight: 450;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 175px;
+  background-color: #1f2937;
+  height: 70px;
+  width: auto;
+}
+
+.logo{
+  display: flex;
+  font-family: "Permanent Marker";
+  color: #f9faf8;
+  align-items: center;
+  font-size: 14px;
+}
+
+.links-header{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
