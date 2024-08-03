@@ -232,3 +232,16 @@ a{
   width: 120px;
   height: 40px;
 }
+
+.footer{
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.brand{
+  color: #f9faf8;
+  font-size: 16px;
+  font-weight: 400;
+}
